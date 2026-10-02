@@ -1,0 +1,16 @@
+{
+  "name": "fortune-clawd",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "A Claude Code tip as a toast when a session starts; /fortune for another."
+  },
+  "plugins": [
+    {
+      "name": "fortune-clawd",
+      "source": "./",
+      "description": "A Claude Code tip as a toast when a session starts; /fortune for another."
+    }
+  ]
+}

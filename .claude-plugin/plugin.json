@@ -1,0 +1,13 @@
+{
+  "name": "fortune-clawd",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "version": "0.1.0",
+  "types": "./types/index.d.ts",
+  "description": "A Claude Code tip as a toast when a session starts; /fortune for another.",
+  "displayName": "Fortune Clawd",
+  "homepage": "https://github.com/saiharsha03/fortune-clawd",
+  "repository": "https://github.com/saiharsha03/fortune-clawd",
+  "license": "MIT"
+}
